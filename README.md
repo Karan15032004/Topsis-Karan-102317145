@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Topsis-Karan-102317145
 
 This is a simple command-line implementation of the TOPSIS method in Python.
