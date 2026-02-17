@@ -105,5 +105,3 @@ This project is licensed under the MIT License.
 
 Thank you for using this package!!
 =======
-# Topsis
->>>>>>> 8d76c9ef69174182756faa097499ea60268cb035
